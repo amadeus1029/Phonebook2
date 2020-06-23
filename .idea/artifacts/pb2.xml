@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pb2">
+    <output-path>$PROJECT_DIR$/out/artifacts/pb2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Phonebook2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Phonebook2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Phonebook2/web/Web2" />
+    </root>
+  </artifact>
+</component>
